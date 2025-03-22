@@ -2,8 +2,12 @@
 
 A secure and efficient web-based election platform designed specifically for college student representative elections.
 
-## Features
 
+
+https://github.com/user-attachments/assets/a201562e-e554-4360-ae6b-92f9d43c4ba9
+
+
+## Features
 ### Authentication & Security
 - Multi-level authentication system (Faculty Super Admin, Student Admin, Voters)
 - Secure passkey-based voting system
