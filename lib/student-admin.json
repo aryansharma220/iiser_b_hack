@@ -1,0 +1,121 @@
+[
+  {
+    "id": "A1001",
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@college.edu",
+    "role": "student_admin",
+    "department": "Computer Science",
+    "year": 4,
+    "permissions": [
+      "manage_candidates",
+      "manage_elections",
+      "view_results",
+      "send_notifications"
+    ],
+    "assignedBy": "prof.kumar@college.edu",
+    "assignedDate": "2023-08-15",
+    "password": "admin123",
+    "hashedPassword": "$2a$10$dQmf4tVvTzV8zZVfG3lB8.Ys4AzH0oJtla/mB.R9ERCc88a5hRD2q"
+  },
+  {
+    "id": "A1002",
+    "name": "Priya Patel",
+    "email": "priya.patel@college.edu",
+    "role": "student_admin",
+    "department": "Physics",
+    "year": 3,
+    "permissions": [
+      "manage_candidates",
+      "view_results",
+      "send_notifications"
+    ],
+    "assignedBy": "prof.gupta@college.edu",
+    "assignedDate": "2023-07-22",
+    "password": "admin123",
+    "hashedPassword": "$2a$10$YfzRtDpvZpUBjc9qrGG6GuPVL5OpjDY3bJ1P.1YyBwZKqfJ6Qwk2W"
+  },
+  {
+    "id": "A1003",
+    "name": "Arjun Menon",
+    "email": "arjun.m@college.edu",
+    "role": "student_admin",
+    "department": "Economics",
+    "year": 4,
+    "permissions": [
+      "manage_candidates",
+      "manage_elections",
+      "upload_voter_data",
+      "view_results"
+    ],
+    "assignedBy": "prof.singh@college.edu",
+    "assignedDate": "2023-08-01",
+    "password": "admin123"
+  },
+  {
+    "id": "A1004",
+    "name": "Sanya Khanna",
+    "email": "sanya.k@college.edu",
+    "role": "student_admin",
+    "department": "Biology",
+    "year": 3,
+    "permissions": [
+      "manage_candidates",
+      "view_results",
+      "send_notifications",
+      "manage_elections"
+    ],
+    "assignedBy": "prof.roy@college.edu",
+    "assignedDate": "2023-07-10",
+    "password": "admin123"
+  },
+  {
+    "id": "A1005",
+    "name": "Vikram Singh",
+    "email": "vikram.s@college.edu",
+    "role": "student_admin",
+    "department": "Engineering Sciences",
+    "year": 5,
+    "permissions": [
+      "manage_candidates",
+      "manage_elections",
+      "upload_voter_data",
+      "view_results",
+      "send_notifications"
+    ],
+    "assignedBy": "prof.mehta@college.edu",
+    "assignedDate": "2023-08-10",
+    "password": "admin123"
+  },
+  {
+    "id": "A1006",
+    "name": "Aisha Khan",
+    "email": "aisha.k@college.edu",
+    "role": "student_admin",
+    "department": "Mathematics",
+    "year": 4,
+    "permissions": [
+      "manage_candidates",
+      "view_results",
+      "upload_voter_data"
+    ],
+    "assignedBy": "prof.verma@college.edu",
+    "assignedDate": "2023-07-25",
+    "password": "admin123"
+  },
+  {
+    "id": "A1007",
+    "name": "Aryan Sharma",
+    "email": "aryansharma2534@gmail.com",
+    "role": "student_admin",
+    "department": "Mathematics",
+    "year": 4,
+    "permissions": [
+      "manage_candidates",
+      "view_results",
+      "upload_voter_data"
+    ],
+    "assignedBy": "prof.verma@college.edu",
+    "assignedDate": "2023-07-25",
+    "password": "admin123"
+  }
+]

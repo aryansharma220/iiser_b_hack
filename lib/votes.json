@@ -1,0 +1,81 @@
+{
+  "votes": {
+    "cr_2024_ns_1": {
+      "cr_male": {
+        "c1": {
+          "votes": 45,
+          "lastUpdated": "2024-03-22T06:30:14.083Z"
+        },
+        "c2": {
+          "votes": 39,
+          "lastUpdated": "2025-03-22T06:52:13.078Z"
+        }
+      },
+      "cr_female": {
+        "c3": {
+          "votes": 53,
+          "lastUpdated": "2025-03-22T06:52:13.078Z"
+        },
+        "c4": {
+          "votes": 41,
+          "lastUpdated": "2024-03-22T06:35:22.481Z"
+        }
+      }
+    },
+    "mess_rep_2024": {
+      "mess_rep": {
+        "m1": {
+          "votes": 89,
+          "lastUpdated": "2024-03-22T06:45:00.481Z"
+        },
+        "m2": {
+          "votes": 77,
+          "lastUpdated": "2025-03-22T06:51:37.476Z"
+        },
+        "m3": {
+          "votes": 96,
+          "lastUpdated": "2025-03-22T06:51:37.476Z"
+        }
+      }
+    },
+    "hostel_rep_2024": {
+      "boys_hostel": {
+        "bh1": {
+          "votes": 156,
+          "lastUpdated": "2024-03-22T06:40:00.481Z"
+        },
+        "bh2": {
+          "votes": 143,
+          "lastUpdated": "2024-03-22T06:42:00.481Z"
+        }
+      },
+      "girls_hostel": {
+        "gh1": {
+          "votes": 128,
+          "lastUpdated": "2024-03-22T06:44:00.481Z"
+        },
+        "gh2": {
+          "votes": 134,
+          "lastUpdated": "2024-03-22T06:46:00.481Z"
+        }
+      }
+    }
+  },
+  "voterStatus": {
+    "cr_2024_ns_1": {
+      "totalEligibleVoters": 200,
+      "totalVoted": 177,
+      "lastUpdated": "2025-03-22T06:52:13.078Z"
+    },
+    "mess_rep_2024": {
+      "totalEligibleVoters": 300,
+      "totalVoted": 261,
+      "lastUpdated": "2025-03-22T06:51:37.476Z"
+    },
+    "hostel_rep_2024": {
+      "totalEligibleVoters": 600,
+      "totalVoted": 561,
+      "lastUpdated": "2024-03-22T06:46:00.481Z"
+    }
+  }
+}

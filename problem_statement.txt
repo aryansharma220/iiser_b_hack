@@ -1,0 +1,69 @@
+Election Website for College Students
+Design and develop a secure and efficient election website for college students. This web application will facilitate the election of Class Representatives (CRs), Department Representatives (DRs), and other essential student representatives through a transparent and user-friendly online voting system. The application should feature an admin portal for election management, secure authentication for voters, and a real-time vote counting mechanism. This challenge aims to create a scalable, user-friendly, and secure online election system for college students. Participants are encouraged to think critically about efficiency, security, and usability, ensuring a smooth and fair electoral process for all students.
+Election Structure
+1st Year Students:
+There are three streams, each having Class Representatives (CR) as follows::
+Natural Sciences: 1 Male (M) and 1 Female (F)
+Engineering Sciences: 1 Gender Neutral (GN)
+Economic Sciences: 1 GN
+
+2nd Year Students:
+Natural Sciences: Each department (Bio, Chm, Maths, EES, DSE, Phy) elects 1 CR.
+Engineering Sciences: 1 CR
+Economic Sciences: 1 CR
+In Natural Sciences, students can have up to 3 pre-majors. For Engineering and Economic Sciences, pre-major is labeled as the stream name itself.
+3rd Year Students:
+Natural Sciences: Each department (Bio, Chm, Maths, EES, DSE, Phy) elects one Department Representative (DR).
+Engineering Sciences: Each department (EECS, DSE, CHE) elects one DR.
+Economic Sciences: DR election follows the same scheme.
+4th & 5th Year Students:
+Follows the same scheme as 3rd year.
+Additional Elections (All Years):
+2 Mess Representatives
+2 Girls Hostel Representatives
+2 Boys Hostel Representatives
+Data Schema
+Each student record must include:
+Name
+Roll Number
+Email ID
+Gender
+Year of Study
+Stream (for 1st Year Students)
+Pre-majors (for 2nd Year Students)
+Department (for 3rd-5th Year Students)
+Implementation Requirements
+Participants must develop a fully functional web application with the following key features:
+Admin Portal:
+Admin authentication system.
+Ability to add candidates for election positions (based on the year-wise structure).
+Upload student voter data via a CSV file or manual input.
+Automated email(on existing email) distribution to eligible voters with a unique voting passkey.
+Real-time tracking of voting progress.
+Voter Portal:
+Passkey-based authentication to ensure secure voting.
+Dynamic ballot generation – voters should only see the positions they are eligible to vote for.
+Person gets OTP when he try to enter the voting page through the form.
+Save votes anonymously (That is store only the count, not the person who voted).
+Confirmation message upon successful vote submission.
+Security and Integrity Measures:
+Unique, non-reusable passkeys for each voter.
+Data encryption for vote storage and transmission.
+Prevention of duplicate voting or unauthorized access.
+Audit log for admin actions.
+Bonus Section
+Participants will receive bonus points for implementing a dynamic position management system where:
+Admins can create new election positions dynamically.
+Admins can assign eligibility criteria for each position using filters (e.g., gender = male, year = 1st, stream = Engineering, etc.). Filters need to be added through UI itself.
+The voting system automatically adjusts based on these custom positions and filters, ensuring that only eligible students can vote for the created positions.
+
+Faculty Super Admin Role 
+● A Faculty Super Admin will have the authority to assign and change the Student 
+Admin as per requirements. 
+● The Student Admin will be responsible for managing elections, but the Faculty Super 
+Admin retains overriding control in case of issues or transitions. 
+Admin Portal Features (Including Super Admin) 
+● Faculty Super Admin can assign or revoke Student Admin roles dynamically. 
+● Secure authentication system for both Faculty Super Admin and Student Admin. 
+● Ability to add candidates, manage voter data, and oversee the election process. 
+● Real-time tracking of voting progress and security logs. 

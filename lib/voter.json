@@ -1,0 +1,186 @@
+[
+  {
+    "id": "V1001",
+    "name": "Aditya Verma",
+    "rollNumber": "2023001",
+    "email": "aditya.verma@college.edu",
+    "gender": "Male",
+    "yearOfStudy": 1,
+    "stream": "Natural Sciences",
+    "hasVoted": false
+  },
+  {
+    "id": "V1002",
+    "name": "Neha Gupta",
+    "rollNumber": "2023042",
+    "email": "neha.gupta@college.edu",
+    "gender": "Female",
+    "yearOfStudy": 1,
+    "stream": "Natural Sciences",
+    "hasVoted": false
+  },
+  {
+    "id": "V1003",
+    "name": "Rohan Joshi",
+    "rollNumber": "2023103",
+    "email": "rohan.joshi@college.edu",
+    "gender": "Male",
+    "yearOfStudy": 1,
+    "stream": "Engineering Sciences",
+    "hasVoted": false
+  },
+  {
+    "id": "V1004",
+    "name": "Tanya Kapoor",
+    "rollNumber": "2023154",
+    "email": "tanya.kapoor@college.edu",
+    "gender": "Female",
+    "yearOfStudy": 1,
+    "stream": "Economic Sciences",
+    "hasVoted": false
+  },
+  {
+    "id": "V1005",
+    "name": "Vivek Kumar",
+    "rollNumber": "2022025",
+    "email": "vivek.kumar@college.edu",
+    "gender": "Male",
+    "yearOfStudy": 2,
+    "stream": "Natural Sciences",
+    "preMajors": ["Biology", "Chemistry", "Physics"],
+    "hasVoted": false
+  },
+  {
+    "id": "V1006",
+    "name": "Sneha Rawat",
+    "rollNumber": "2022087",
+    "email": "sneha.rawat@college.edu",
+    "gender": "Female",
+    "yearOfStudy": 2,
+    "stream": "Natural Sciences",
+    "preMajors": ["Mathematics", "Physics", "DSE"],
+    "hasVoted": false
+  },
+  {
+    "id": "V1007",
+    "name": "Kunal Singh",
+    "rollNumber": "2022119",
+    "email": "kunal.singh@college.edu",
+    "gender": "Male",
+    "yearOfStudy": 2,
+    "stream": "Engineering Sciences",
+    "preMajors": ["Engineering Sciences"],
+    "hasVoted": false
+  },
+  {
+    "id": "V1008",
+    "name": "Ananya Sharma",
+    "rollNumber": "2022173",
+    "email": "ananya.sharma@college.edu",
+    "gender": "Female",
+    "yearOfStudy": 2,
+    "stream": "Economic Sciences",
+    "preMajors": ["Economic Sciences"],
+    "hasVoted": false
+  },
+  {
+    "id": "V1009",
+    "name": "Nikhil Patel",
+    "rollNumber": "2021046",
+    "email": "nikhil.patel@college.edu",
+    "gender": "Male",
+    "yearOfStudy": 3,
+    "department": "Physics",
+    "hasVoted": false
+  },
+  {
+    "id": "V1010",
+    "name": "Meera Shah",
+    "rollNumber": "2021098",
+    "email": "meera.shah@college.edu",
+    "gender": "Female",
+    "yearOfStudy": 3,
+    "department": "Biology",
+    "hasVoted": false
+  },
+  {
+    "id": "V1011",
+    "name": "Karan Malhotra",
+    "rollNumber": "2021135",
+    "email": "karan.malhotra@college.edu",
+    "gender": "Male",
+    "yearOfStudy": 3,
+    "department": "EECS",
+    "hasVoted": false
+  },
+  {
+    "id": "V1012",
+    "name": "Riya Chakraborty",
+    "rollNumber": "2021187",
+    "email": "riya.chakraborty@college.edu",
+    "gender": "Female",
+    "yearOfStudy": 3,
+    "department": "Economics",
+    "hasVoted": false
+  },
+  {
+    "id": "V1013",
+    "name": "Aryan Desai",
+    "rollNumber": "2020035",
+    "email": "aryan.desai@college.edu",
+    "gender": "Male",
+    "yearOfStudy": 4,
+    "department": "DSE",
+    "hasVoted": false
+  },
+  {
+    "id": "V1014",
+    "name": "Kavya Reddy",
+    "rollNumber": "2020078",
+    "email": "kavya.reddy@college.edu",
+    "gender": "Female",
+    "yearOfStudy": 4,
+    "department": "Chemistry",
+    "hasVoted": false
+  },
+  {
+    "id": "V1015",
+    "name": "Dhruv Iyer",
+    "rollNumber": "2020129",
+    "email": "dhruv.iyer@college.edu",
+    "gender": "Male",
+    "yearOfStudy": 4,
+    "department": "CHE",
+    "hasVoted": false
+  },
+  {
+    "id": "V1016",
+    "name": "Ishaan Menon",
+    "rollNumber": "2019042",
+    "email": "ishaan.menon@college.edu",
+    "gender": "Male",
+    "yearOfStudy": 5,
+    "department": "Mathematics",
+    "hasVoted": false
+  },
+  {
+    "id": "V1017",
+    "name": "Zara Ahmed",
+    "rollNumber": "2019087",
+    "email": "zara.ahmed@college.edu",
+    "gender": "Female",
+    "yearOfStudy": 5,
+    "department": "EES",
+    "hasVoted": false
+  },
+  {
+    "id": "V1018",
+    "name": "Vihaan Khanna",
+    "rollNumber": "2019132",
+    "email": "vihaan.khanna@college.edu",
+    "gender": "Male",
+    "yearOfStudy": 5,
+    "department": "EECS",
+    "hasVoted": false
+  }
+]

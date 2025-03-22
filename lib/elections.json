@@ -1,0 +1,225 @@
+{
+  "active_elections": [
+    {
+      "id": "cr_2024_ns_1",
+      "title": "Class Representative Election 2025 - Natural Sciences",
+      "description": "Election for Class Representatives of Natural Sciences first year",
+      "eligibility": {
+        "yearOfStudy": 1,
+        "stream": "Natural Sciences"
+      },
+      "positions": [
+        {
+          "id": "cr_male",
+          "title": "Male Class Representative",
+          "maxSelections": 1,
+          "eligibility": {
+            "gender": "Male"
+          },
+          "candidates": [
+            {
+              "id": "c1",
+              "name": "Aditya Verma",
+              "rollNumber": "2023001",
+              "manifesto": "Bridging gaps between students and faculty",
+              "agenda": [
+                "Weekly academic progress meetings with faculty",
+                "Create peer mentoring system",
+                "Organize subject-specific workshops",
+                "Implement student feedback system"
+              ],
+              "experience": "School Head Boy, Science Club President",
+              "achievements": [
+                "National Science Olympiad Gold Medalist",
+                "Best Student Leader Award 2023"
+              ]
+            },
+            {
+              "id": "c2",
+              "name": "Rohan Joshi",
+              "rollNumber": "2023103",
+              "manifesto": "Enhancing academic and co-curricular balance",
+              "agenda": [
+                "Start weekend study groups",
+                "Organize monthly science exhibitions",
+                "Create online resource library",
+                "Regular faculty-student interaction sessions"
+              ],
+              "experience": "Student Council Member",
+              "achievements": [
+                "State Level Science Fair Winner",
+                "Leadership Camp Coordinator"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cr_female",
+          "title": "Female Class Representative",
+          "maxSelections": 1,
+          "eligibility": {
+            "gender": "Female"
+          },
+          "candidates": [
+            {
+              "id": "c3",
+              "name": "Neha Gupta",
+              "rollNumber": "2023042",
+              "manifesto": "Creating an inclusive learning environment",
+              "agenda": [
+                "Establish women in science forum",
+                "Monthly career guidance sessions",
+                "Create mentorship program",
+                "Organize research opportunities workshop"
+              ],
+              "experience": "Science Club Secretary",
+              "achievements": [
+                "Young Scientist Award 2023",
+                "Best Academic Performance"
+              ]
+            },
+            {
+              "id": "c4",
+              "name": "Priya Sharma",
+              "rollNumber": "2023056",
+              "manifesto": "Fostering academic excellence and leadership",
+              "agenda": [
+                "Start peer tutoring program",
+                "Organize academic competitions",
+                "Create study resource database",
+                "Weekly doubt-solving sessions"
+              ],
+              "experience": "Academic Committee Head",
+              "achievements": [
+                "Mathematics Olympiad Winner",
+                "Best Speaker Award"
+              ]
+            }
+          ]
+        }
+      ],
+      "timeline": {
+        "startDate": "2025-03-21T00:00:00Z",
+        "endDate": "2025-03-24T23:59:59Z",
+        "resultDate": "2025-03-25T18:00:00Z",
+        "minVotingDuration": "24h",
+        "reminderSent": false
+      },
+      "validation": {
+        "requireAllPositions": true,
+        "allowRevote": false,
+        "requireConfirmation": true
+      },
+      "rules": [
+        "Each voter can vote only once",
+        "Voters must belong to Natural Sciences stream",
+        "First year students only"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "mess_rep_2024",
+      "title": "Mess Representative Election 2025",
+      "description": "Election for Mess Representatives for all hostels",
+      "eligibility": {
+        "yearOfStudy": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "positions": [
+        {
+          "id": "mess_rep",
+          "title": "Mess Representative",
+          "maxSelections": 2,
+          "candidates": [
+            {
+              "id": "m1",
+              "name": "Vivek Kumar",
+              "rollNumber": "2022025",
+              "manifesto": "Revolutionizing mess management and food quality",
+              "agenda": [
+                "Implement digital feedback system",
+                "Monthly food festival",
+                "Improve hygiene standards",
+                "Special dietary options"
+              ],
+              "experience": "Current Mess Committee Member",
+              "achievements": [
+                "Best Mess Management Award 2023",
+                "Food Safety Certification"
+              ]
+            },
+            {
+              "id": "m2",
+              "name": "Sneha Rawat",
+              "rollNumber": "2022087",
+              "manifesto": "Sustainable and quality mess services",
+              "agenda": [
+                "Reduce food waste program",
+                "Weekly menu customization",
+                "Improve kitchen facilities",
+                "Regular quality checks"
+              ],
+              "experience": "Hostel Committee Member",
+              "achievements": [
+                "Organized Sustainable Food Drive",
+                "Best Volunteer Award"
+              ]
+            },
+            {
+              "id": "m3",
+              "name": "Kunal Singh",
+              "rollNumber": "2022119",
+              "manifesto": "Modern mess management solutions",
+              "agenda": [
+                "Implement smart card system",
+                "Create mobile app for feedback",
+                "Organize food taste committees",
+                "Special occasion celebrations"
+              ],
+              "experience": "Food Quality Manager",
+              "achievements": [
+                "Developed Mess Management App",
+                "Customer Service Excellence Award"
+              ]
+            },
+            {
+              "id": "m4",
+              "name": "Tanya Kapoor",
+              "rollNumber": "2023154",
+              "manifesto": "Healthy and diverse meal options",
+              "agenda": [
+                "Introduce nutrition tracking",
+                "Cultural food festivals",
+                "Start healthy cooking workshops",
+                "Regular menu surveys"
+              ],
+              "experience": "Nutrition Club President",
+              "achievements": [
+                "Health and Wellness Certification",
+                "Best Food Innovation Award"
+              ]
+            }
+          ]
+        }
+      ],
+      "timeline": {
+        "startDate": "2025-03-21T00:00:00Z",
+        "endDate": "2025-03-23T23:59:59Z",
+        "resultDate": "2025-03-25T18:00:00Z",
+        "minVotingDuration": "24h",
+        "reminderSent": false
+      },
+      "validation": {
+        "requireAllPositions": true,
+        "allowRevote": false,
+        "requireConfirmation": true
+      },
+      "status": "active"
+    }
+  ]
+}

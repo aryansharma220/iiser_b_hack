@@ -1,0 +1,102 @@
+[
+  {
+    "question": "How can I register to vote?",
+    "answer": "You are automatically registered if you are a student of the college. You can check your eligibility on the college election portal."
+  },
+  {
+    "question": "Who is eligible to vote?",
+    "answer": "All students currently enrolled in the college and assigned a valid roll number are eligible to vote."
+  },
+  {
+    "question": "Where can I cast my vote?",
+    "answer": "You can cast your vote through the college election portal. Log in with your credentials and follow the voting instructions."
+  },
+  {
+    "question": "What are the key dates for the elections?",
+    "answer": "The election schedule, including nomination, campaigning, and voting dates, is published on the college election portal under the 'Election Timeline' section."
+  },
+  {
+    "question": "How can I check my voter eligibility?",
+    "answer": "Log in to the election portal and check the 'Voter List' section. If you are not listed, contact the election authorities."
+  },
+  {
+    "question": "What happens if I don’t vote?",
+    "answer": "Voting is encouraged but not mandatory. However, participating ensures your voice is heard in student governance."
+  },
+  {
+    "question": "Can I vote more than once?",
+    "answer": "No. Each student is allowed to vote only once per election. The system prevents multiple votes."
+  },
+  {
+    "question": "How can I check election results?",
+    "answer": "Election results will be published on the portal after voting closes. You can log in and navigate to the 'Results' section."
+  },
+  {
+    "question": "What are the different positions available in the elections?",
+    "answer": "Positions include Class Representative (CR), Student Council President, Vice President, Treasurer, and Mess Representative. The full list is available on the election portal."
+  },
+  {
+    "question": "What is the role of a class representative?",
+    "answer": "The Class Representative (CR) represents student concerns, coordinates with faculty, and helps organize events."
+  },
+  {
+    "question": "Who are the candidates for this election?",
+    "answer": "The candidate list is available on the election portal under the 'Candidates' section."
+  },
+  {
+    "question": "How is the voting process conducted?",
+    "answer": "The election is conducted online. Once logged in, you can view candidates, select your preferred choices, and submit your vote securely."
+  },
+  {
+    "question": "What are the steps to vote online?",
+    "answer": "1. Log in to the election portal with your credentials. \n2. Navigate to the 'Vote Now' section. \n3. Select the position you want to vote for. \n4. Choose your preferred candidate. \n5. Review your selection and confirm your vote."
+  },
+  {
+    "question": "Can I change my vote after submitting?",
+    "answer": "No. Once your vote is submitted, it is final and cannot be changed."
+  },
+  {
+    "question": "What security measures are in place for online voting?",
+    "answer": "Votes are secured using encryption, and only verified students can access the system. Multiple authentication layers ensure data integrity."
+  },
+  {
+    "question": "How are candidates nominated?",
+    "answer": "Candidates can nominate themselves or be nominated by a faculty member. The nomination process is conducted before the election starts."
+  },
+  {
+    "question": "How can I contact election authorities for issues?",
+    "answer": "For any queries, you can contact the Election Committee via email at election.support@college.edu or visit the Student Affairs office."
+  },
+  {
+    "question": "What is the campaign period?",
+    "answer": "The campaign period is the time allocated for candidates to present their agendas. It usually lasts a week before voting begins."
+  },
+  {
+    "question": "Can I campaign for a candidate?",
+    "answer": "Yes, you can support candidates within the rules set by the election committee. Unauthorized campaigns may lead to disqualification."
+  },
+  {
+    "question": "When will the results be announced?",
+    "answer": "Results will be declared within 24 hours after the voting ends."
+  },
+  {
+    "question": "What happens in case of a tie?",
+    "answer": "In case of a tie, a re-vote may be conducted, or the election committee will decide based on predefined criteria."
+  },
+  {
+    "question": "How is voter anonymity maintained?",
+    "answer": "Your vote is encrypted and stored securely, ensuring that no one, including election officials, can see who you voted for."
+  },
+  {
+    "question": "Can I withdraw my nomination after submitting it?",
+    "answer": "Yes, candidates can withdraw their nomination before the final list is published. The deadline for withdrawal is mentioned in the election timeline."
+  },
+  {
+    "question": "What if I face issues while voting online?",
+    "answer": "You can contact the election support team immediately via email or the help desk provided in the portal."
+  },
+  {
+    "question": "How do I become an election observer?",
+    "answer": "Students can apply to become election observers by submitting an application to the Student Affairs Office before the election begins."
+  }
+]

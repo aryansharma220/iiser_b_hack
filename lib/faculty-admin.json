@@ -1,0 +1,24 @@
+[
+  {
+    "id": "FA001",
+    "name": "Dr. Rajesh Kumar",
+    "email": "rajesh.kumar@college.edu",
+    "password": "rajesh123",
+    "hashedPassword": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+    "role": "faculty_super_admin",
+    "department": "Computer Science",
+    "designation": "Professor",
+    "active": true
+  },
+  {
+    "id": "FA002",
+    "name": "Dr. Priya Sharma",
+    "email": "priya.sharma@college.edu",
+    "password": "abc123",
+    "hashedPassword": "$2a$10$IujEXoQjJSuKCWUYGSyxwedQrJAFJEIMV1AQA1K4L9Px4YiPvGPZa",
+    "role": "faculty_admin",
+    "department": "Electrical Engineering",
+    "designation": "Associate Professor",
+    "active": true
+  }
+]
