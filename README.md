@@ -30,35 +30,64 @@ A secure and efficient web-based election platform designed specifically for col
 - Additional Representative Elections (Mess, Hostel)
 
 ## Technical Stack
-- Frontend: NextJS
-- Backend: [Your Backend Framework]
-- Database: [Your Database]
-- Authentication: [Auth System]
-
-
+- Frontend: NextJS 13.4+
+- Backend: Express.js
+- Database: Firebase
+- Authentication: firebase auth
+- UI Components: Tailwind CSS
+- State Management: React Context API
+- Form Handling: react-hook-form
+- API Client: Axios
 
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/aryansharma220/arma_code_college_elect
+git clone https://github.com/aryansharma220/iiser_b_hack
 ```
 
 2. Install dependencies:
 ```bash
-cd college-election-system
+cd arma_code_college_elect
 npm install
 ```
 
 3. Configure environment variables:
 ```bash
 cp .env.example .env
-# Edit .env with your configurations
 ```
 
-4. Run the application:
+4. Run the development server:
 ```bash
 npm run dev
 ```
+
+5. Build for production:
+```bash
+npm run build
+npm start
+```
+
+## Project Structure
+```
+├── app/           # Next.js 13 app directory with pages and routing
+├── components/    # Reusable UI components
+├── context/      # React Context providers and state management
+├── lib/          # Utility functions and configurations
+├── public/       # Static assets like images, fonts, etc.
+```
+
+## Development Guidelines
+- Use TypeScript for type safety
+- Follow ESLint and Prettier configurations
+- Implement toast notifications for user feedback
+- Write unit tests for critical functions
+- Follow Git commit conventions
+
+### Code Style
+- Use JavaScript for all new code
+- Follow the existing project structure
+- Add appropriate comments and documentation
+- Include unit tests for new features
 
 ## Security Measures
 - Unique, non-reusable passkeys
@@ -66,16 +95,6 @@ npm run dev
 - Prevention of duplicate voting
 - Comprehensive audit logging
 - Role-based access control
-
-## Contributing
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
-
-## Testing
-```bash
-npm run test
-```
 
 ## License
 This project is licensed under the MIT License.
