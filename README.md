@@ -2,8 +2,7 @@
 
 A secure and efficient web-based election platform designed specifically for college student representative elections.
 
-
-
+## Demo Video
 https://github.com/user-attachments/assets/a201562e-e554-4360-ae6b-92f9d43c4ba9
 
 
@@ -43,8 +42,6 @@ https://github.com/user-attachments/assets/a201562e-e554-4360-ae6b-92f9d43c4ba9
 - Form Handling: react-hook-form
 - API Client: Axios
 
-## Demo Video
-https://drive.google.com/file/d/1aqYWQ5n8c3ZbFprkY-DptKqSj-fOCYKo/view?usp=sharing
 
 ## Installation
 1. Clone the repository:
