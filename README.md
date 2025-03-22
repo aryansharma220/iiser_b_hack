@@ -39,6 +39,9 @@ A secure and efficient web-based election platform designed specifically for col
 - Form Handling: react-hook-form
 - API Client: Axios
 
+## Demo Video
+https://drive.google.com/file/d/1aqYWQ5n8c3ZbFprkY-DptKqSj-fOCYKo/view?usp=sharing
+
 ## Installation
 1. Clone the repository:
 ```bash
