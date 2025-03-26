@@ -101,7 +101,8 @@ npm start
 - Role-based access control
 
 ## License
-This project is licensed under the MIT License.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 For support and queries:
