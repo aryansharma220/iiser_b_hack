@@ -100,10 +100,6 @@ npm start
 - Comprehensive audit logging
 - Role-based access control
 
-## License
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Support
 For support and queries:
 - Create an issue in the repository
